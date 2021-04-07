@@ -9,7 +9,7 @@ export default class imageCompressor extends React.Component {
     super();
     this.state = {
       compressedLink:
-        "http://navparivartan.in/wp-content/uploads/2018/11/placeholder.png",
+        "https://www.google.com/url?sa=i&url=https%3A%2F%2Flab.csschopper.com%2Fplaceholder%2F&psig=AOvVaw2e8cVW_NNyBN11uJgjPDhQ&ust=1617855968491000&source=images&cd=vfe&ved=0CA0QjhxqFwoTCMCVpaWl6-8CFQAAAAAdAAAAABAD",
       originalImage: "",
       originalLink: "",
       clicked: false,
